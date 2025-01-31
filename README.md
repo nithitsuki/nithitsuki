@@ -2,7 +2,7 @@
 
 👋 The name's Nithilan! Glad to find you here (^_^)
 
-😎 I'm actively working/procrastinating on [my side projects]().
+😎 I'm actively working/procrastinating on [my side projects](https://nithitsuki.github.io/incomplete-projects/).
 
 🎓 Currently waiting for a CS degree from ASEB, and an ES degree from IITM.
 
