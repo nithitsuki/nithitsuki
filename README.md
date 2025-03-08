@@ -13,5 +13,5 @@
 I'm also a very busy man (watching anime), but I'm always free to talk about:  
 + 🐧 Linux / Low-level stuff  🔧
 + ⚡ Electronics  🔌
-+ 🎥 Anime  🍿
++ (✧∀✧)/ Anime  ٩(ˊ〇ˋ*)و
 + Brainrot 🤯💬 
