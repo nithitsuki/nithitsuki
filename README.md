@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
 
-- 👨‍💻 All of my projects are available at [https://dev.nithitsuki.com/](https://dev.nithitsuki.com/)
-
 - 📝 I irregularly write articles on [https://nithitsuki.com/blogs/](https://nithitsuki.com/blogs/)
 
 ---
@@ -18,9 +16,8 @@
 I’m always up to talk about:
 - 🐧 Linux & low-level geekery
 - 🔐 Binary exploitation & CTFs
-- ⚡ Embedded electronics & reverse engineering
-- ☁️ Backend infra & DevOps (Docker, CI/CD, etc.)
-- ✨ Anime & brainrot theory
+- ⚡ electronics & short circuits
+- ✨ Anime & brainrot ✨
 
 ---
 
