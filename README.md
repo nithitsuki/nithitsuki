@@ -1,21 +1,11 @@
 <h1 align="center">👋 Hey, I'm Nithitsuki</h1>
 <h3 align="center">Uni Student | Learning by Building Real-World Projects | Open-Source Contributor</h3>
 
-- 🔭 I’m currently working on [yt-music-downloader](https://github.com/nithitsuki/yt-music-downloader)
-
-- 🌱 I’m currently learning **Next.js, Tailwind, and Redux**
-
-- 👯 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
+- 💵 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
 
 - 📝 I irregularly write articles on [https://nithitsuki.com/blogs/](https://nithitsuki.com/blogs/)
 
-## 🧠 Interests
-
-I’m always up to talk about:
-- 🐧 Linux & low-level geekery
-- 🔐 Binary exploitation & CTFs
-- ⚡ electronics & short circuits
-- ✨ Anime & brainrot ✨
+---
 
 ### Languages and Tools:
 <table width="100%" style="border: none; border-collapse: collapse;">
@@ -54,4 +44,4 @@ I’m always up to talk about:
     </tr>
 </table>
 
-I use gentoo btw
+I use gentoo & neovim btw
