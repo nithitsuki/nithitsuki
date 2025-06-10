@@ -17,7 +17,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
     </h1>
 </div>
-<h3 align="center">Uni Student | Learning by Building Real-World Projects | Open-Source Contributor</h3>
+<h3 align="center">Uni Student | Learning by Shipping Real-World Products | Open-Source Contributor</h3>
 
 - 💵 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
 
