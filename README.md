@@ -17,11 +17,16 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
     </h1>
 </div>
+
 <h3 align="center">Uni Student | Learning by Shipping Real-World Products | Open-Source Contributor</h3>
 
-- 💵 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
+---
 
+Remind me to put up some cool stuff here later
+<!--
+- 💵 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
 - 📝 I irregularly write articles on [nithitsuki.com/articles](https://nithitsuki.com/articles/)
+-->
 
 ---
 
