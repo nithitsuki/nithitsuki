@@ -21,12 +21,10 @@
 <h3 align="center">Uni Student | Learning by Shipping Real-World Products | Open-Source Contributor</h3>
 
 ---
+As a great man once said,\
+"_Why do they call it oven when you of in the cold food of out hot eat the food_"
 
-Remind me to put up some cool stuff here later
-<!--
-- 💵 I’m looking to collaborate on [sad.nithitsuki.com](https://github.com/nithitsuki/sad.nithitsuki.com)
-- 📝 I irregularly write articles on [nithitsuki.com/articles](https://nithitsuki.com/articles/)
--->
+( quote courtesy of [@heftymouse](https://github.com/heftymouse/) )
 
 ---
 
