@@ -18,7 +18,7 @@
     </h1>
 </div>
 
-<h3 align="center">Uni Student | Learning by Shipping Real-World Products | Open-Source Contributor</h3>
+<h3 align="center"> Uni Student | Shipping Real-World <s>Liabilities</s> Products | Open-Source Contributer</h3>
 
 ---
 As a great man once said,\
@@ -28,7 +28,7 @@ As a great man once said,\
 
 ---
 
-### Languages and Tools:
+### Tools I use to make (break) stuff:
 <table width="100%" style="border: none; border-collapse: collapse;">
     <tr>
         <td width="max-content" height="min-content" valign="top" style="padding: 0 0px 0 0; border: none;">
