@@ -14,3 +14,8 @@
 <div align="center">
     <img src="https://static.wikia.nocookie.net/aesthetics/images/2/27/9fb6eba33db80cea8c8d0ac9697e8670.jpg/revision/latest?cb=20250818122715" width="128" height="128"><img src="https://static.wikia.nocookie.net/aesthetics/images/c/c2/Nanami.webp/revision/latest?cb=20240226063915" width="128" height="128"><img src="https://i.pinimg.com/1200x/21/36/ea/2136ea17816f9e445af82eb25afdeb8c.jpg" width="128" height="128">
 </div>
+<div align="center">
+
+I have a [personal website](https://nithitsuki.com). If you're from amrita, checkout [amrita.town](https://amrita.town). I like happy and sad things.
+
+</div>
